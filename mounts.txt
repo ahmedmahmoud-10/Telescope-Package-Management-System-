@@ -1,0 +1,21 @@
+# physical,motion,mount_plate,weight_rating(kg),goto
+T,AZ,V,6,Y
+T,EQ,V,8,N
+D,AA,NA,15,N
+T,AZ,V,10,Y
+T,EQ,L,12,Y
+T,AZ,V,7,N
+T,EQ,V,9,Y
+D,AA,NA,20,N
+T,AZ,L,14,Y
+T,EQ,V,11,N
+T,AZ,V,8,Y
+T,EQ,L,16,Y
+D,AA,NA,25,N
+T,AZ,V,9,N
+T,EQ,L,18,Y
+T,AZ,V,10,N
+T,EQ,V,12,Y
+D,AA,NA,30,N
+T,AZ,L,15,Y
+T,EQ,V,13,N
